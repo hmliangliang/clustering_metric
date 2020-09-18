@@ -11,3 +11,4 @@ The following evaluation criteria can be calculated:
 8. Kulczynski index  (K)
 9. Rogers-Tanimoto index  (RT)
 10. Normalized Mutual Information (NMI)
+In addtion, prcision and recall can also be calculated from the function.
